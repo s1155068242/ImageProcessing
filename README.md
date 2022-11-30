@@ -1,2 +1,0 @@
-# GW
-Gravitional wave
